@@ -2,7 +2,7 @@
 
 <p align="center">Remote technical interviews with live video and real-time collaborative coding.</p>
 
-![Demo App](/public/screenshot-for-readme.png)
+
 
 ## Overview
 
